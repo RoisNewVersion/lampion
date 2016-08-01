@@ -1,0 +1,8 @@
+cd ../../
+cd lampu
+php artisan serve
+buka browser, akses localhost:8000
+
+/////edit tulisan home
+resources/views/user/homeuser.blade.php
+resources/views/layoutuser/navbar.php
